@@ -4,8 +4,7 @@ import streamlit as st
 
 # This code opens the web app:
 # streamlit run "C:/Users/Mr. Purple/Documents/Software Engineering/Web App/web.py"
-# cd "C:/Users/Mr. Purple/Documents/Software Engineering/Web App/web.py"
-# cd "C:\Users\Mr. Purple\Documents\Software Engineering\Web App\web.py"
+
 
 # Use the absolute path to your todos.txt file
 todos = functions.get_todos()
